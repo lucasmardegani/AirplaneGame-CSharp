@@ -14,7 +14,7 @@ Projeto desenvolvido em C# utilizando Programação Orientada a Objetos (POO), s
 * C#
 * Visual Studio
 
-## Autor
+## Autores
 
 Lucas Mardegani
 Artur Moraes
